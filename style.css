@@ -13,3 +13,5 @@ body{background:linear-gradient(180deg,#b7e5ff 0%,#dff3ff 62%,#d9f6bd 100%);back
 body{background-image:radial-gradient(ellipse at 18% 12%,#ffffffaa 0 4%,transparent 4.5%),radial-gradient(ellipse at 78% 24%,#ffffff88 0 5%,transparent 5.5%),linear-gradient(180deg,#a7e0ff 0%,#e1f4ff 72%,#b6e9a1 100%)}
 .kid-star{filter:drop-shadow(0 2px 2px #f0a52d)}
 @media(max-width:650px){.hero{aspect-ratio:1536/290;background-size:100% 100%;min-height:95px;border-radius:15px}.kid-portrait{height:145px}}
+
+.ai-panel details{margin:18px 0;padding:14px;border:1px solid #c5dcec;border-radius:14px}.ai-panel summary{cursor:pointer;font-weight:700}.ai-review{border:2px solid #b9def6;border-radius:16px;background:#f5fbff;padding:14px;margin:12px 0}.ai-review .formgrid{margin-top:12px}.ai-review input[type=checkbox]{width:18px;height:18px;vertical-align:middle}.ai-panel #ai-status{display:inline-block;max-width:100%}
